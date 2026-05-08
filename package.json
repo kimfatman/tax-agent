@@ -1,0 +1,16 @@
+{
+  "name": "xs-agent",
+  "version": "1.0.0",
+  "description": "财税行业高效协作平台 — 让财税公司之间可以互相甩单、接单、内部派单，并支持客户直接下单。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "isomorphic-git": "^1.37.6"
+  }
+}
